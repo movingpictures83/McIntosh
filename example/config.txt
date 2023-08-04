@@ -1,0 +1,2 @@
+Prefix plugins/McIntosh/example/
+Plugin McIntosh inputfile table.qza outputfile alpha_diversity.qza
